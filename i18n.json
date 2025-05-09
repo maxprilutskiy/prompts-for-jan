@@ -1,0 +1,21 @@
+{
+  "version": 1.7,
+  "locale": {
+    "source": "en",
+    "targets": [
+      "es",
+      "es-419",
+      "fr",
+      "ca",
+      "hu"
+    ]
+  },
+  "buckets": {
+    "markdown": {
+      "include": [
+        "prompts/[locale].md"
+      ]
+    }
+  },
+  "$schema": "https://lingo.dev/schema/i18n.json"
+}
