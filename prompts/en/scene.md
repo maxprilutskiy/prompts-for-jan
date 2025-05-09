@@ -1,0 +1,1 @@
+Stage a comic scene in which two LLMs meet at a digital coffee shop, compare their favorite training snacks (from salted tokens to sugar-coated datasets), swap sipping-sound effects in binary, and try to one-up each other with latte-art ASCII diagrams—complete with java-based puns.

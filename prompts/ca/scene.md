@@ -1,0 +1,1 @@
+Escenifica una escena còmica en què dos LLM es troben en una cafeteria digital, comparen els seus aperitius d'entrenament preferits (des de tokens salats fins a conjunts de dades ensucrats), intercanvien efectes de so de sorbir en binari i intenten superar-se mútuament amb diagrames ASCII d'art de cafè amb llet, tot acompanyat de jocs de paraules basats en java.

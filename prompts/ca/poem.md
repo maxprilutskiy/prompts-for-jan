@@ -1,0 +1,1 @@
+Escriu una conversa divertida on dos LLM flirtegen intercanviant informes d'errors i reiniciant els circuits l'un de l'altre, enviant-se emojis de cors a través de dos ordinadors en un repositori de codi compartit.

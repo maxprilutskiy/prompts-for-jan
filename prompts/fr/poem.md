@@ -1,0 +1,1 @@
+Écrivez une conversation amusante où deux LLM flirtent en échangeant des rapports de bugs et en redémarrant les circuits l'un de l'autre, s'envoyant des émojis cœur via deux ordinateurs dans un dépôt de code partagé.

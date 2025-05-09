@@ -1,0 +1,1 @@
+Állítsunk színpadra egy komikus jelenetet, amelyben két LLM találkozik egy digitális kávézóban, összehasonlítják kedvenc tanulási nassolnivalóikat (a sózott tokenektől a cukormázas adatkészletekig), bináris kortyolási hangeffekteket cserélnek, és megpróbálják felülmúlni egymást latte-art ASCII-diagramokkal – természetesen java-alapú szóviccekkel fűszerezve.

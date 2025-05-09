@@ -1,0 +1,1 @@
+Escribe una conversación divertida donde dos LLMs coquetean intercambiando informes de errores y reiniciando los circuitos del otro, enviándose emojis de corazón a través de dos ordenadores en un repositorio de código compartido.

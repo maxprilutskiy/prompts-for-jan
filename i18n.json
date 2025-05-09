@@ -13,7 +13,7 @@
   "buckets": {
     "markdown": {
       "include": [
-        "prompts/[locale].md"
+        "prompts/[locale]/*.md"
       ]
     }
   },

@@ -1,0 +1,1 @@
+Írj egy vicces beszélgetést, ahol két LLM flörtöl egymással hibajelentések cseréjével és egymás áramköreinek újraindításával, miközben szív emojikat küldenek egymásnak két számítógépen keresztül egy közös kódtárban.

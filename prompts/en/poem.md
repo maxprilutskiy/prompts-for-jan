@@ -1,0 +1,1 @@
+Write a funny conversation where two LLMs flirt by trading bug reports and rebooting each other’s circuits, sending heart emojis through two computers in a shared code repository.
